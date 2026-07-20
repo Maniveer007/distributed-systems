@@ -20,7 +20,7 @@ Ensure you have Python 3.9 or higher installed on your system.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/distributed-systems.git
+    git clone https://github.com/Maniveer007/distributed-systems.git
     ```
 2.  Navigate into the project directory:
     ```bash
